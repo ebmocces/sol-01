@@ -1,0 +1,14 @@
+{
+  "name": "sol-01",
+  "version": "0.0.1",
+  "description": "a little solar system messings",
+  "main": "dist/index.js",
+  "repository": "https://github.com/ebmocces/sol-01.git",
+  "author": "Ebmocces",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "three": "0.95.0",
+    "typescript": "3.0.1"
+  }
+}
